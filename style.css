@@ -81,7 +81,7 @@ hr {
 .home-hero {
   min-height: 520px;
   background-image:
-    linear-gradient(rgba(15, 23, 42, 0.72), rgba(15, 23, 42, 0.72)),
+    linear-gradient(rgba(15, 23, 42, 0.45), rgba(15, 23, 42, 0.45)),
     url("background.png");
   background-size: cover;
   background-position: center;
