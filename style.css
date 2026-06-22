@@ -72,7 +72,8 @@ hr {
 }
 
 .logo {
-  width: 120px;
+  width: 100px;
   height: auto;
-  margin-bottom: 15px;
+  margin-bottom: 12px;
+  border-radius: 16px;
 }
